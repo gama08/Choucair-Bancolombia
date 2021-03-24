@@ -1,20 +1,4 @@
-co/com/choucair/proyectochoucair/userinterface/ChoucairAcademyPage.java
- co.com.choucair.proyectochoucair.userinterface.ChoucairAcademyPage
-co/com/choucair/proyectochoucair/tasks/OpenUp.java
- co.com.choucair.proyectochoucair.tasks.OpenUp
-co/com/choucair/proyectochoucair/runners/RunnerTags.java
- co.com.choucair.proyectochoucair.runners.RunnerTags
-co/com/choucair/proyectochoucair/userinterface/SearchCoursePage.java
- co.com.choucair.proyectochoucair.userinterface.SearchCoursePage
-co/com/choucair/proyectochoucair/tasks/Search.java
- co.com.choucair.proyectochoucair.tasks.Search
-co/com/choucair/proyectochoucair/userinterface/ChoucairLoginPage.java
- co.com.choucair.proyectochoucair.userinterface.ChoucairLoginPage
-co/com/choucair/proyectochoucair/questions/Answer.java
- co.com.choucair.proyectochoucair.questions.Answer
-co/com/choucair/proyectochoucair/tasks/Login.java
- co.com.choucair.proyectochoucair.tasks.Login
-co/com/choucair/proyectochoucair/model/AcademyChoucairData.java
- co.com.choucair.proyectochoucair.model.AcademyChoucairData
 co/com/choucair/proyectochoucair/stepdefinitions/ChoucairAcademyStepDefinitions.java
  co.com.choucair.proyectochoucair.stepdefinitions.ChoucairAcademyStepDefinitions
+co/com/choucair/proyectochoucair/runners/RunnerTags.java
+ co.com.choucair.proyectochoucair.runners.RunnerTags

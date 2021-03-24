@@ -36,9 +36,6 @@ public class ChoucairAcademyStepDefinitions {
     }
 
     @Then("^encuentra el curso denominado$")
-    /*public void encuentraElCursoDenominadoRecursosAutomatizacionBancolombia(String pregunta) {
-        OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(Answer.toThe(pregunta)));
-    }*/
     public void encuentraElCursoDenominadoPruebaTecnicaAnalistaAutomatizacion(
             List<AcademyChoucairData> academyChoucairData) throws Exception{
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(Answer.toThe(academyChoucairData.get(0).getStrCurso())));
