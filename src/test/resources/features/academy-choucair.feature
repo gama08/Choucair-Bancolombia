@@ -11,4 +11,4 @@
     #Then encuentra el curso denominado recursos automatizacion Bancolombia
     Then encuentra el curso denominado
     | strCurso                    |
-    | Prueba Técnica - Analista Bancolombia |
+    | Patrones de Automatización |
