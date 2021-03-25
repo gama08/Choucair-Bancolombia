@@ -5,7 +5,7 @@ import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
 
-public class ChoucairLoginPage extends PageObject {
+public class ChoucairLoginPage {
     public static final Target LOGIN_BOTON = Target.the("boton que nos muestra el formulario " +
             "para iniciar sesion").located(By.xpath("//div[@class='d-none d-lg-block']//strong[contains(text(),'Ingresar')]"));
     public static final Target INPUT_USUARIO = Target.the("Donde escribimos " +

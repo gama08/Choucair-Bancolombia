@@ -4,7 +4,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class SearchCoursePage extends PageObject {
+public class SearchCoursePage{
 
     public static  final Target INGRESAR_CURSOS_CERTIF = Target.the("Dando clic envia a pantalla de " +
             "cursos y certificaciones").located(By.xpath(".//a[@class = 'card_index']//img[@alt='Cursos y Certificaciones']"));
